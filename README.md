@@ -31,6 +31,10 @@ The system provides the basic necessary reports:
 
 ![welcome](https://github.com/ranabarakat/Car-Rental-System/assets/76884362/d86792f6-943c-4010-9360-059b07fb35d8)
 
+## Choose Dates
+
+![choose dates](https://github.com/ranabarakat/Car-Rental-System/assets/76884362/7e64f249-cbdb-4fbd-a117-728ef4b531c6)
+
 ## Return a Car
 
 ![return car](https://github.com/ranabarakat/Car-Rental-System/assets/76884362/1a550608-53e9-43fc-84d1-56b839884bc3)
